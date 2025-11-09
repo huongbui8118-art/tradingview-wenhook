@@ -1,2 +1,2 @@
-# tradingview-wenhook
+# tradingview-webhook
 auto - trading webhook for tradingview
